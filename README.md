@@ -6,9 +6,18 @@
 
 Null as of now
 
+## Technologies
+
+-[Flask](https://flask.palletsprojects.com/en/2.1.x/)
+-[Django](https://www.djangoproject.com/)
+-[FastAPI](https://fastapi.tiangolo.com/)
 
 ## Contributing
-Pull requests are not welcome. You can fork and try using this as your own template for 100 days of 'XYZ'
+Pull requests are not welcome. You can fork and try using this as your own template for 100 days of 'XYZ'.
+
+## Credits
+
+@Th3lazykid
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
