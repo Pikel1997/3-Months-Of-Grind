@@ -11,7 +11,7 @@ Finally opened up youtube and serached up for some flask tutorials and found a g
 Very rough, prolly only useful to me.
 
 - Flask is a web application framework written in python
-- Uses the [WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) standard
+- Uses the [Werkzeug WSGI](https://werkzeug.palletsprojects.com/en/2.1.x/) standard
 - Uses [Jinja Template Engine](https://jinja.palletsprojects.com/en/3.1.x/) i.e. :-
     - Web templating system that combines web template with a certain data source.
     - Renders dynamic pages.
