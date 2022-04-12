@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment="">
+    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment="Flask testing">
       <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -70,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flask testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flask testing" />
   </component>
 </project>
