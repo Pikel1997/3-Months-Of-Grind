@@ -24,4 +24,4 @@ Very rough, prolly only useful to me.
 - [Flask tutorial playlist](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 - [Corey Schafer youtube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
-## [Youtube](https://youtu.be/pin8qdtAYPs)
+## [Youtube Channel](https://youtu.be/pin8qdtAYPs)
