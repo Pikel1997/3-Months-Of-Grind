@@ -1,6 +1,7 @@
 # Day 2
 
 Woah day 2 was intense, lots of code. I didn't expect to read up on Bootstrap classes and had to implement tons of them and WOW I HATE BOOTSTRAP, but hey it gets the job done.
+Successfully made a working login and registration form with validation. Felt pretty cool, I think I could comfortably create wtforms.
 
 ## Notes
 
