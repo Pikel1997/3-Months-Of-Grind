@@ -23,3 +23,5 @@ Very rough, prolly only useful to me.
 - [Introdution to Flask Framework](https://www.youtube.com/watch?v=4L_xAWDRs7w&t=335s)
 - [Flask tutorial playlist](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 - [Corey Schafer youtube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+
+## [Youtube](https://youtu.be/pin8qdtAYPs)
