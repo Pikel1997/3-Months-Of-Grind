@@ -4,7 +4,24 @@
 
 ## Installation
 
-Null as of now
+### Create Virtual Environment
+
+In a terminal run the following commands from the root folder of the forked project.
+
+Windows
+
+```bash
+  python -m venv .\venv
+```
+
+Now that you are working in the virtualenv, install the project dependencies with the following command.
+
+```bash
+  pip install -r requirements.txt
+```
+
+You can preview your work by running flask run in the root of your fork and then visithttp://localhost:5000 in your browser.
+
 
 ## Grind
 
