@@ -6,6 +6,14 @@
 
 Null as of now
 
+## Grind
+
+Day | Topic
+--- | ---
+**1** |  [Python problem challenges & Exploring Flask](/Days/day1.md)
+**2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)
+**3** |  [Day3 Title Here](/Days/day3.md)
+
 ## Technologies
 
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
@@ -18,15 +26,6 @@ Pull requests are not welcome. You can fork and try using this as your own templ
 ## Credits
 
 @[Th3lazykid](https://github.com/Th3lazykid)
-
-## Grind
-
-Day | Topic
---- | ---
-**1** |  [Python problem challenges & Exploring Flask](/Days/day1.md)
-**2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)
-**3** |  [Day3 Title Here](/Days/day3.md)
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
