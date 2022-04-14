@@ -23,9 +23,9 @@ Pull requests are not welcome. You can fork and try using this as your own templ
 
 Day | Topic
 --- | ---
-**1** |  [Python problem challenges & Exploring Flask](/day1/day1.md)
-**2** |  [Login and registration form with validation & lots of Bootstrap](/day2/day2.md)
-**3** |  [Day3 Title Here](/day3/day3.md)
+**1** |  [Python problem challenges & Exploring Flask](/Days/day1.md)
+**2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)
+**3** |  [Day3 Title Here](/Days/day3.md)
 
 
 ## License
