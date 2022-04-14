@@ -19,6 +19,7 @@ Day | Topic | Youtube Video
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 - [Django](https://www.djangoproject.com/)
 - [FastAPI](https://fastapi.tiangolo.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Contributing
 Pull requests are not welcome. You can fork and try using this as your own template for 100 days of 'XYZ'.
