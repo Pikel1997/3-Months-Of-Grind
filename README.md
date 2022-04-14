@@ -22,6 +22,10 @@ Now that you are working in the virtualenv, install the project dependencies wit
 
 You can preview your work by running flask run in the root of your fork and then visit http://localhost:5000 in your browser.
 
+```bash
+  flask run
+```
+
 
 ## Grind
 
