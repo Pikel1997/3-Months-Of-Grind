@@ -5,7 +5,7 @@ Day 3 was a tiresome day, went through 3 hours worth of tutorials and got 3 main
 - Set up authentication.
 - Set up database and database connectivity.
 Implemented tons of functionality like the ability to actually log in, log out and even password hashing, Also got the secret stored safely in a .env file, this was not smooth and I accidentally commited and pushed my token to git and github.
-Don't woory though, I changed it and this time carefully set up the .gitignore file to ignore .env file.
+Don't worry though, I changed it and this time carefully set up the .gitignore file to ignore .env file.
 
 ## Notes
 
