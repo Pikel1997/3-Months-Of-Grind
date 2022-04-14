@@ -20,7 +20,7 @@ Now that you are working in the virtualenv, install the project dependencies wit
   pip install -r requirements.txt
 ```
 
-You can preview your work by running flask run in the root of your fork and then visithttp://localhost:5000 in your browser.
+You can preview your work by running flask run in the root of your fork and then visit http://localhost:5000 in your browser.
 
 
 ## Grind
