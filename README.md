@@ -19,6 +19,8 @@ Pull requests are not welcome. You can fork and try using this as your own templ
 
 @[Th3lazykid](https://github.com/Th3lazykid)
 
+## Grind
+
 Day | Topic
 --- | ---
 **1** |  [Python problem challenges & Exploring Flask](/day1/day1.md)
