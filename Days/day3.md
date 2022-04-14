@@ -17,6 +17,8 @@ Very rough, prolly only useful to me.
 - Learned password hashing
 - Logout feature implementation was ezpz.
 - Used .gitignore and .env files appropriately.
+  - [.gitignore](https://www.youtube.com/watch?v=ErJyWO8TGoM) 
+  - [.env](https://www.youtube.com/watch?v=YdgIWTYQ69A) 
 - Went out and had fun after getting today's work done
 
 ## Resources
