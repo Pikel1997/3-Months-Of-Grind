@@ -19,5 +19,13 @@ Pull requests are not welcome. You can fork and try using this as your own templ
 
 @[Th3lazykid](https://github.com/Th3lazykid)
 
+Day | Topic
+--- | ---
+**1** |  [Python problem challenges & Exploring Flask](/day1/day1.md)
+**2** |  [Login and registration form with validation & lots of Bootstrap](/day2/day2.md)
+**3** |  [Day3 Title Here](/day3/day3.md)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
