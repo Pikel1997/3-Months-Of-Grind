@@ -16,7 +16,7 @@ Very rough, prolly only useful to me.
 - Visit Post.
 - Fixed UI elements.
 - Update post func added.
-- Delete post fun added.
+- Delete post func added.
 
 ## Resources
 
