@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment=":alien: Updated .gitignore">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment=":alien: Created requirements.txt and fixed layout.html">
+      <change afterPath="$PROJECT_DIR$/app/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/app/site.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649937453933</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=":alien: Created requirements.txt and fixed layout.html">
+      <created>1649970220782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649970220782</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -172,6 +187,7 @@
     <MESSAGE value=":white_check_mark: Major changes, will be described i day2.md" />
     <MESSAGE value=":white_check_mark: Created database structure" />
     <MESSAGE value=":alien: Updated .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value=":alien: Updated .gitignore" />
+    <MESSAGE value=":alien: Created requirements.txt and fixed layout.html" />
+    <option name="LAST_COMMIT_MESSAGE" value=":alien: Created requirements.txt and fixed layout.html" />
   </component>
 </project>
