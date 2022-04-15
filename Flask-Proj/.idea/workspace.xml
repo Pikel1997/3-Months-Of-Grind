@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment=":alien: Created requirements.txt and fixed layout.html">
+    <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment=":white_check_mark: Added update post functionality">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/create_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/create_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/app/site.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649970220782</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=":white_check_mark: Added update post functionality">
+      <created>1650039325572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650039325572</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -180,6 +188,7 @@
     <MESSAGE value=":white_check_mark: Created database structure" />
     <MESSAGE value=":alien: Updated .gitignore" />
     <MESSAGE value=":alien: Created requirements.txt and fixed layout.html" />
-    <option name="LAST_COMMIT_MESSAGE" value=":alien: Created requirements.txt and fixed layout.html" />
+    <MESSAGE value=":white_check_mark: Added update post functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value=":white_check_mark: Added update post functionality" />
   </component>
 </project>
