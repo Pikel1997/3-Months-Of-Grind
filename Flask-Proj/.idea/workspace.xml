@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c4dd11-c1ff-4dbd-8b12-bdb32ec553b5" name="Changes" comment=":alien: Created requirements.txt and fixed layout.html">
-      <change afterPath="$PROJECT_DIR$/app/templates/create_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/app/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/create_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/create_post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
