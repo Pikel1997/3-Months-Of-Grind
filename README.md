@@ -34,6 +34,7 @@ Day | Topic | Youtube Video
 **1** |  [Python problem challenges & Exploring Flask](/Days/day1.md)  |  **[DAY 1](https://youtu.be/pin8qdtAYPs)**  
 **2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)  |  **[DAY 2](https://youtu.be/9ktD6_XhSuc)** 
 **3** |  [Authentication and Databse setup](/Days/day3.md)  |  **[DAY 3]()** 
+**4** |  [Authentication and Databse setup](/Days/day4.md)  |  **[DAY 4]()** 
 
 ## Technologies
 
