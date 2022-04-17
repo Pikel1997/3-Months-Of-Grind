@@ -35,7 +35,8 @@ Day | Topic | Youtube Video
 **2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)  |  **[DAY 2](https://youtu.be/9ktD6_XhSuc)** 
 **3** |  [Authentication and Databse setup](/Days/day3.md)  |  **[DAY 3](https://www.youtube.com/watch?v=fh1c400r7xI)** 
 **4** |  [Update and delete post functionality](/Days/day4.md)  |  **[DAY 4](https://youtu.be/77lK206l63c)** 
-**5** |  [Pagination, Lookup user posts, ordered post ](/Days/day5.md)  |  **[DAY 5]()** 
+**5** |  [Pagination, Lookup user posts, ordered post ](/Days/day5.md)  |  **[DAY 5](https://youtu.be/0yGPi0NIgxg)** 
+**6** |  [Pagination, Lookup user posts, ordered post ](/Days/day6.md)  |  **[DAY 6]()** 
 
 ## Technologies
 
