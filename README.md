@@ -31,13 +31,13 @@ You can preview your work by running flask run in the root of your fork and then
 
 Day | Topic | Youtube Video
 --- | --- | ---
-**1** |  [Python problem challenges & Exploring Flask](/Days/day1.md)  |  **[DAY 1](https://youtu.be/pin8qdtAYPs)**  
-**2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day2.md)  |  **[DAY 2](https://youtu.be/9ktD6_XhSuc)** 
-**3** |  [Authentication and Databse setup](/Days/day3.md)  |  **[DAY 3](https://www.youtube.com/watch?v=fh1c400r7xI)** 
-**4** |  [Update and delete post functionality](/Days/day4.md)  |  **[DAY 4](https://youtu.be/77lK206l63c)** 
-**5** |  [Pagination, Lookup user posts, ordered post ](/Days/day5.md)  |  **[DAY 5](https://youtu.be/0yGPi0NIgxg)** 
-**6** |  [Reset Password](/Days/day6.md)  |  **[DAY 6]()** 
-**7** |  [](/Days/day7.md)  |  **[DAY 6]()** 
+**1** |  [Python problem challenges & Exploring Flask](/Days/day01.md)  |  **[DAY 1](https://youtu.be/pin8qdtAYPs)**  
+**2** |  [Login and registration form with validation & lots of Bootstrap](/Days/day02.md)  |  **[DAY 2](https://youtu.be/9ktD6_XhSuc)** 
+**3** |  [Authentication and Databse setup](/Days/day03.md)  |  **[DAY 3](https://www.youtube.com/watch?v=fh1c400r7xI)** 
+**4** |  [Update and delete post functionality](/Days/day04.md)  |  **[DAY 4](https://youtu.be/77lK206l63c)** 
+**5** |  [Pagination, Lookup user posts, ordered post ](/Days/day05.md)  |  **[DAY 5](https://youtu.be/0yGPi0NIgxg)** 
+**6** |  [Reset Password](/Days/day06.md)  |  **[DAY 6]()** 
+**X** |  [Accident](/Days/dayX.md)  |  **[DAY X]()** 
 
 ## Technologies
 
